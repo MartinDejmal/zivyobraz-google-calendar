@@ -1,8 +1,8 @@
 function getEventsFromAlternateCalendar() {
   // Fill in your Google account email address.
-  var userEmail = 'martin.dejmal@myslenka.net';
+  var userEmail = '';
   // Fill in zivyobraz.eu importKey.
-  var importKey = 'EicXjvmaqMNFGCtD';
+  var importKey = '';
   
   // Get the calendar by name (in this case, "Pracovní").
   var calendars = CalendarApp.getCalendarsByName('Pracovní');
